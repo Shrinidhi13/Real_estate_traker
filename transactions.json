@@ -1,0 +1,128 @@
+[
+    {
+        "lat": 28.6139,
+        "lng": 77.2090,
+        "propertyType": "Apartment",
+        "transactionAmount": "$500,000",
+        "date": "2023-10-16"
+    },
+    {
+        "lat": 19.0760,
+        "lng": 72.8777,
+        "propertyType": "Villa",
+        "transactionAmount": "$1,200,000",
+        "date": "2023-10-14"
+    },
+    {
+        "lat": 13.0827,
+        "lng": 80.2707,
+        "propertyType": "Commercial Space",
+        "transactionAmount": "$800,000",
+        "date": "2023-10-12"
+    },
+    {
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "propertyType": "Office",
+        "transactionAmount": "$400,000",
+        "date": "2023-10-10"
+    },
+    {
+        "lat": 18.5204,
+        "lng": 73.8567,
+        "propertyType": "Row House",
+        "transactionAmount": "$600,000",
+        "date": "2023-10-08"
+    },
+    {
+        "lat": 26.9124,
+        "lng": 75.7873,
+        "propertyType": "Land Plot",
+        "transactionAmount": "$300,000",
+        "date": "2023-10-05"
+    },
+    {
+        "lat": 22.5726,
+        "lng": 88.3639,
+        "propertyType": "Apartment",
+        "transactionAmount": "$450,000",
+        "date": "2023-10-03"
+    },
+    {
+        "lat": 21.1458,
+        "lng": 79.0882,
+        "propertyType": "Penthouse",
+        "transactionAmount": "$750,000",
+        "date": "2023-10-01"
+    },
+    {
+        "lat": 17.385044,
+        "lng": 78.486671,
+        "propertyType": "Condominium",
+        "transactionAmount": "$350,000",
+        "date": "2023-10-20"
+    },
+    {
+        "lat": 20.296059,
+        "lng": 85.824540,
+        "propertyType": "Duplex",
+        "transactionAmount": "$550,000",
+        "date": "2023-10-19"
+    },
+    {
+        "lat": 23.022505,
+        "lng": 72.571362,
+        "propertyType": "Mansion",
+        "transactionAmount": "$2,200,000",
+        "date": "2023-10-17"
+    },
+    {
+        "lat": 16.306655,
+        "lng": 80.436540,
+        "propertyType": "Retail Space",
+        "transactionAmount": "$900,000",
+        "date": "2023-10-15"
+    },
+    {
+        "lat": 10.850516,
+        "lng": 76.271080,
+        "propertyType": "Cottage",
+        "transactionAmount": "$450,000",
+        "date": "2023-10-14"
+    },
+    {
+        "lat": 9.939093,
+        "lng": 76.259953,
+        "propertyType": "Bungalow",
+        "transactionAmount": "$700,000",
+        "date": "2023-10-12"
+    },
+    {
+        "lat": 31.633979,
+        "lng": 74.872264,
+        "propertyType": "Studio",
+        "transactionAmount": "$250,000",
+        "date": "2023-10-11"
+    },
+    {
+        "lat": 34.083671,
+        "lng": 74.797282,
+        "propertyType": "Townhouse",
+        "transactionAmount": "$420,000",
+        "date": "2023-10-09"
+    },
+    {
+        "lat": 30.900965,
+        "lng": 75.857277,
+        "propertyType": "Apartment",
+        "transactionAmount": "$320,000",
+        "date": "2023-10-07"
+    },
+    {
+        "lat": 26.218287,
+        "lng": 78.182831,
+        "propertyType": "Villa",
+        "transactionAmount": "$1,500,000",
+        "date": "2023-10-06"
+    }
+]
